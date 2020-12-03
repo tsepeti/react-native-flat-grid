@@ -1,0 +1,9 @@
+{
+  "name": "react-native-flat-grid",
+  "version": "0.0.4",
+  "description": "React Native Flat List Grid",
+  "main": "./src/list.js",
+  "repository": "https://github.com/tsepeti/react-native-flat-grid.git",
+  "author": "Yasar ICLI <yasaricli@gmail.com>",
+  "license": "MIT"
+}
