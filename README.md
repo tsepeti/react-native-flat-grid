@@ -4,6 +4,7 @@
   <img src="kapture.gif" width="50%" />
 </p>
 
+For example usage you can see [here.](example)
 
 ## Quickstart
 
